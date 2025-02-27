@@ -357,7 +357,7 @@ const WatchlistPage = () => {
   return (
     <Box p={4}>
       <Flex justify="space-between" align="center" mb={6} flexWrap="wrap">
-        <Heading size="lg" color={textColor} mb={{ base: 4, md: 0 }}>My Watchlist</Heading>
+        <Heading size="md" color={textColor} mb={{ base: 4, md: 0 }}>My Watchlist</Heading>
         
         <Flex>
           {/* Search */}
