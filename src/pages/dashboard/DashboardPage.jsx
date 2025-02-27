@@ -49,7 +49,7 @@ const DashboardPage = () => {
   
   const bgCard = useColorModeValue('white', 'gray.800');
   const textColor = useColorModeValue('gray.800', 'white');
-  const secondaryTextColor = useColorModeValue('gray.600', 'gray.400');
+  const secondaryTextColor = useColorModeValue('gray.600', 'white');
   const borderColor = useColorModeValue('gray.200', 'gray.700');
 
   // Mock data for charts
